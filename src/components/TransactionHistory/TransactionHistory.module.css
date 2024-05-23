@@ -1,0 +1,17 @@
+.table,
+.td,
+.th {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 4px 50px;
+  text-align: center;
+}
+
+.th {
+  color: white;
+  background-color: rgb(39, 38, 38);
+}
+
+.alternateRow {
+  background-color: rgb(182, 180, 180);
+}

@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .name {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  
+  .online {
+    font-size: 14px;
+    color: green;
+  }
+  
+  .offline {
+    font-size: 14px;
+    color: red;
+  }
